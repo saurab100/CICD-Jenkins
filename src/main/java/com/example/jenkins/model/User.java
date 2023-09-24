@@ -1,4 +1,4 @@
-package com.ashok.model;
+package com.example.jenkins.model;
 
 public class User {
 
