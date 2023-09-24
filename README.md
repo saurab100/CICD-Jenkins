@@ -1,3 +1,3 @@
 # CICD-Jenkins
--Creat a spring boot application
--Create CI/CD pipeline using Jenkins and deploying it to Tomcat container 
+1. Creat a spring boot application
+2. Create CI/CD pipeline using Jenkins and deploying it to Tomcat container 
